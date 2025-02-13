@@ -1,6 +1,6 @@
 # Simple Calculator
 
-This is a simple calculator application built with PHP and JavaScript.
+This is a simple calculator application built with HTML, CSS, and JavaScript.
 
 ## Features
 
@@ -13,7 +13,7 @@ This is a simple calculator application built with PHP and JavaScript.
 
 ```
 simple-calculator/
-├── index.php
+├── index.html
 ├── css/
 │   └── styles.css
 ├── js/
