@@ -9,6 +9,18 @@ This is a simple calculator application built with PHP and JavaScript.
 - Multiplication
 - Division
 
+## Project Structure
+
+```
+simple-calculator/
+├── index.php
+├── css/
+│   └── styles.css
+├── js/
+│   └── scripts.js
+└── README.md
+```
+
 ## Installation
 
 1. Clone the repository:
